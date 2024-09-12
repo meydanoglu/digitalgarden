@@ -1,6 +1,6 @@
 ---
 publish: 1
-header: Hello, this is Emin.
+title: Hello, this is Emin.
 ---
-Hello, this is Emnim.
-la la [[LA2 HW]] 
+Hello, I am Emin Meydanoğlu. I am a Robotics Engineering student at Istanbul Technical University, and also passionate about physics, philosophy, and how to live a good life.
+This is my second brain, where you can find all my content in these areas. 
