@@ -1,7 +1,6 @@
 ---
 publish: 1
 ---
-
 ===Bir çiçeğin açması
 Bir yıldızın sönmesi
 Bir insanın doğması
